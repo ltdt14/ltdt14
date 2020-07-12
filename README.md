@@ -1,5 +1,8 @@
 Hi there 👋
 
-- I'm currtently working on object detection/tracking
 ### TIL
-[Example](TIL/20200712155034.md)
+[Note Taking "Zettelkasten" with Zettlr](./TIL/202007122020-note-taking-zettelkasten-with-zettlr.md)
+
+
+
+
