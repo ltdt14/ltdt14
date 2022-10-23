@@ -2,7 +2,7 @@ Hi there 👋
 
 2022-09-05
 
-[Create array of n numbers inline (JavaScript Snippet)](TIL/2022-09-05-Inline%20create%20array%20of%20n%20numbers.md)
+[[JS Snippet] Create array of n numbers inline (JavaScript Snippet)](TIL/2022-09-05-Inline%20create%20array%20of%20n%20numbers.md)
 
 2021-01-27
 
