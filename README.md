@@ -1,6 +1,6 @@
 Hi there 👋
 
-[[2025-04-25] TIL: Dictionaries vs ConcurrentDictionaries in C#](TIL/2025-04-25-dictionaries-vs-concurrent-dictionaries-in-csharp)
+[[2025-04-25] TIL: Dictionaries vs ConcurrentDictionaries in C#](TIL/2025-04-25-dictionaries-vs-concurrent-dictionaries-in-csharp.md)
 
 [[2022-09-05] [JS Snippet] Create array of n numbers inline](TIL/2022-09-05-Inline%20create%20array%20of%20n%20numbers.md)
 
